@@ -1,2 +1,2 @@
 # TecnologiasTI
-Repositorios usados  nas aulas de Tecnologias de TI da PUC Campinas Curso Engenharia de Software da PUC Campinas
+Repositorios usados  nas aulas de Tecnologias de TI da PUC Campinas Curso Sistema da Informação da PUC Campinas
